@@ -1,0 +1,48 @@
+.storybook-checkbox {
+    font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    border: 0;
+    border-radius: 3em;
+    cursor: pointer;
+    display: inline-block;
+    line-height: 1;
+  }
+  .storybook-checkbox--primary {
+    color: white;
+    background-color: red;
+  }
+  .storybook-checkbox--secondary {
+    color: #333;
+    background-color: transparent;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
+  }
+  .storybook-checkbox--small {
+    font-size: 12px;
+    padding: 10px 16px;
+    border-radius: .25rem;
+  }
+  .storybook-checkbox--medium {
+    font-size: 14px;
+    padding: 11px 20px;
+    border-radius: .25rem;
+  }
+  .storybook-checkbox--large {
+    font-family: Source Sans Pro Web,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+    font-size: 1.06rem;
+    line-height: .9;
+    background-color: red;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: 0;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 700;
+    margin-right: 0.5rem;
+    padding: 0.75rem 1.25rem;
+    text-align: center;
+    text-decoration: none;
+    width: 100%;
+  }
+  

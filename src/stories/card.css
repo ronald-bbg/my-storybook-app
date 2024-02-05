@@ -1,0 +1,39 @@
+.usa-card__container {
+    color: #1b1b1b;
+    background-color: #fff;
+    font-family: Source Sans Pro Web,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;
+    font-size: 1.06rem;
+    line-height: 1.5;
+    border-width: 2px;
+    border-color: #e6e6e6;
+    border-style: solid;
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    position: relative;
+    border-radius: 0.25rem;
+    font-weight: bold;
+    text-align: left;
+    padding: 0.5rem 1.5rem 1.5rem;
+}
+
+.usa-card__header {
+    padding-top: 1.5rem;
+    font-family: Merriweather Web,Georgia,Cambria,Times New Roman,Times,serif;
+    font-size: 1.22rem;
+    line-height: 1.2;
+    margin: 0;
+}
+
+.usa-card__body {
+    flex: 1 1 0%;
+    flex-basis: auto;
+    font-weight: normal;
+    margin-top: 10px;
+}
+
+.usa-card__footer {
+    font-weight: normal;
+}
